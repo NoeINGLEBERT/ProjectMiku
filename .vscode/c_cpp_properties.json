@@ -1,0 +1,20 @@
+{
+	"configurations": [
+		{
+			"name": "SteamEditor Editor Win64 Development (ProjectMiku)",
+			"compilerPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"cStandard": "c17",
+			"cppStandard": "c++20",
+			"intelliSenseMode": "msvc-x64",
+			"compileCommands": "D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku.json"
+		},
+		{
+			"name": "Win32",
+			"compilerPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"cStandard": "c17",
+			"cppStandard": "c++20",
+			"intelliSenseMode": "msvc-x64",
+			"compileCommands": "D:\\ProjectMiku\\.vscode\\compileCommands_Default.json"
+		}
+	]
+}

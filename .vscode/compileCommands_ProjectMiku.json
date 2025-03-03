@@ -1,0 +1,1346 @@
+[
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\AdvancedSessions-5-5\\AdvancedSessions\\AdvancedSessions\\Source\\AdvancedSessions\\AdvancedSessions.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\AdvancedSessions.105.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\AdvancedSessions-5-5\\AdvancedSessions\\AdvancedSessions\\Source\\AdvancedSessions\\Classes\\AdvancedExternalUILibrary.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\AdvancedSessions.105.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\AdvancedSessions-5-5\\AdvancedSessions\\AdvancedSessions\\Source\\AdvancedSessions\\Classes\\AdvancedFriendsGameInstance.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\AdvancedSessions.105.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\AdvancedSessions-5-5\\AdvancedSessions\\AdvancedSessions\\Source\\AdvancedSessions\\Classes\\AdvancedFriendsInterface.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\AdvancedSessions.105.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\AdvancedSessions-5-5\\AdvancedSessions\\AdvancedSessions\\Source\\AdvancedSessions\\Classes\\AdvancedFriendsLibrary.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\AdvancedSessions.105.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\AdvancedSessions-5-5\\AdvancedSessions\\AdvancedSessions\\Source\\AdvancedSessions\\Classes\\AdvancedGameSession.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\AdvancedSessions.105.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\AdvancedSessions-5-5\\AdvancedSessions\\AdvancedSessions\\Source\\AdvancedSessions\\Classes\\AdvancedIdentityLibrary.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\AdvancedSessions.105.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\AdvancedSessions-5-5\\AdvancedSessions\\AdvancedSessions\\Source\\AdvancedSessions\\Classes\\AdvancedSessions.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\AdvancedSessions.105.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\AdvancedSessions-5-5\\AdvancedSessions\\AdvancedSessions\\Source\\AdvancedSessions\\Classes\\AdvancedSessionsLibrary.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\AdvancedSessions.105.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\AdvancedSessions-5-5\\AdvancedSessions\\AdvancedSessions\\Source\\AdvancedSessions\\Classes\\AdvancedVoiceLibrary.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\AdvancedSessions.105.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\AdvancedSessions-5-5\\AdvancedSessions\\AdvancedSessions\\Source\\AdvancedSessions\\Classes\\AutoLoginUserCallbackProxy.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\AdvancedSessions.105.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\AdvancedSessions-5-5\\AdvancedSessions\\AdvancedSessions\\Source\\AdvancedSessions\\Classes\\BlueprintDataDefinitions.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\AdvancedSessions.105.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\AdvancedSessions-5-5\\AdvancedSessions\\AdvancedSessions\\Source\\AdvancedSessions\\Classes\\CancelFindSessionsCallbackProxy.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\AdvancedSessions.105.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\AdvancedSessions-5-5\\AdvancedSessions\\AdvancedSessions\\Source\\AdvancedSessions\\Classes\\CreateSessionCallbackProxyAdvanced.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\AdvancedSessions.105.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\AdvancedSessions-5-5\\AdvancedSessions\\AdvancedSessions\\Source\\AdvancedSessions\\Classes\\EndSessionCallbackProxy.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\AdvancedSessions.105.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\AdvancedSessions-5-5\\AdvancedSessions\\AdvancedSessions\\Source\\AdvancedSessions\\Classes\\FindFriendSessionCallbackProxy.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\AdvancedSessions.105.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\AdvancedSessions-5-5\\AdvancedSessions\\AdvancedSessions\\Source\\AdvancedSessions\\Classes\\FindSessionsCallbackProxyAdvanced.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\AdvancedSessions.105.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\AdvancedSessions-5-5\\AdvancedSessions\\AdvancedSessions\\Source\\AdvancedSessions\\Classes\\GetFriendsCallbackProxy.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\AdvancedSessions.105.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\AdvancedSessions-5-5\\AdvancedSessions\\AdvancedSessions\\Source\\AdvancedSessions\\Classes\\GetRecentPlayersCallbackProxy.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\AdvancedSessions.105.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\AdvancedSessions-5-5\\AdvancedSessions\\AdvancedSessions\\Source\\AdvancedSessions\\Classes\\GetUserPrivilegeCallbackProxy.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\AdvancedSessions.105.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\AdvancedSessions-5-5\\AdvancedSessions\\AdvancedSessions\\Source\\AdvancedSessions\\Classes\\LoginUserCallbackProxy.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\AdvancedSessions.105.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\AdvancedSessions-5-5\\AdvancedSessions\\AdvancedSessions\\Source\\AdvancedSessions\\Classes\\LogoutUserCallbackProxy.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\AdvancedSessions.105.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\AdvancedSessions-5-5\\AdvancedSessions\\AdvancedSessions\\Source\\AdvancedSessions\\Classes\\OnlineSubSystemHeader.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\AdvancedSessions.105.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\AdvancedSessions-5-5\\AdvancedSessions\\AdvancedSessions\\Source\\AdvancedSessions\\Classes\\SendFriendInviteCallbackProxy.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\AdvancedSessions.105.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\AdvancedSessions-5-5\\AdvancedSessions\\AdvancedSessions\\Source\\AdvancedSessions\\Classes\\StartSessionCallbackProxyAdvanced.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\AdvancedSessions.105.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\AdvancedSessions-5-5\\AdvancedSessions\\AdvancedSessions\\Source\\AdvancedSessions\\Classes\\UpdateSessionCallbackProxyAdvanced.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\AdvancedSessions.105.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\AdvancedSessions-5-5\\AdvancedSessions\\AdvancedSessions\\Source\\AdvancedSessions\\Private\\AdvancedExternalUILibrary.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\AdvancedSessions.105.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\AdvancedSessions-5-5\\AdvancedSessions\\AdvancedSessions\\Source\\AdvancedSessions\\Private\\AdvancedFriendsGameInstance.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\AdvancedSessions.105.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\AdvancedSessions-5-5\\AdvancedSessions\\AdvancedSessions\\Source\\AdvancedSessions\\Private\\AdvancedFriendsInterface.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\AdvancedSessions.105.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\AdvancedSessions-5-5\\AdvancedSessions\\AdvancedSessions\\Source\\AdvancedSessions\\Private\\AdvancedFriendsLibrary.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\AdvancedSessions.105.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\AdvancedSessions-5-5\\AdvancedSessions\\AdvancedSessions\\Source\\AdvancedSessions\\Private\\AdvancedIdentityLibrary.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\AdvancedSessions.105.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\AdvancedSessions-5-5\\AdvancedSessions\\AdvancedSessions\\Source\\AdvancedSessions\\Private\\AdvancedSessions.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\AdvancedSessions.105.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\AdvancedSessions-5-5\\AdvancedSessions\\AdvancedSessions\\Source\\AdvancedSessions\\Private\\AdvancedSessionsLibrary.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\AdvancedSessions.105.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\AdvancedSessions-5-5\\AdvancedSessions\\AdvancedSessions\\Source\\AdvancedSessions\\Private\\AdvancedVoiceLibrary.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\AdvancedSessions.105.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\AdvancedSessions-5-5\\AdvancedSessions\\AdvancedSessions\\Source\\AdvancedSessions\\Private\\AutoLoginUserCallbackProxy.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\AdvancedSessions.105.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\AdvancedSessions-5-5\\AdvancedSessions\\AdvancedSessions\\Source\\AdvancedSessions\\Private\\CancelFindSessionsCallbackProxy.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\AdvancedSessions.105.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\AdvancedSessions-5-5\\AdvancedSessions\\AdvancedSessions\\Source\\AdvancedSessions\\Private\\CreateSessionCallbackProxyAdvanced.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\AdvancedSessions.105.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\AdvancedSessions-5-5\\AdvancedSessions\\AdvancedSessions\\Source\\AdvancedSessions\\Private\\EndSessionCallbackProxy.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\AdvancedSessions.105.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\AdvancedSessions-5-5\\AdvancedSessions\\AdvancedSessions\\Source\\AdvancedSessions\\Private\\FindFriendSessionCallbackProxy.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\AdvancedSessions.105.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\AdvancedSessions-5-5\\AdvancedSessions\\AdvancedSessions\\Source\\AdvancedSessions\\Private\\FindSessionsCallbackProxyAdvanced.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\AdvancedSessions.105.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\AdvancedSessions-5-5\\AdvancedSessions\\AdvancedSessions\\Source\\AdvancedSessions\\Private\\GetFriendsCallbackProxy.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\AdvancedSessions.105.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\AdvancedSessions-5-5\\AdvancedSessions\\AdvancedSessions\\Source\\AdvancedSessions\\Private\\GetRecentPlayersCallbackProxy.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\AdvancedSessions.105.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\AdvancedSessions-5-5\\AdvancedSessions\\AdvancedSessions\\Source\\AdvancedSessions\\Private\\GetUserPrivilegeCallbackProxy.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\AdvancedSessions.105.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\AdvancedSessions-5-5\\AdvancedSessions\\AdvancedSessions\\Source\\AdvancedSessions\\Private\\LoginUserCallbackProxy.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\AdvancedSessions.105.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\AdvancedSessions-5-5\\AdvancedSessions\\AdvancedSessions\\Source\\AdvancedSessions\\Private\\LogoutUserCallbackProxy.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\AdvancedSessions.105.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\AdvancedSessions-5-5\\AdvancedSessions\\AdvancedSessions\\Source\\AdvancedSessions\\Private\\SendFriendInviteCallbackProxy.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\AdvancedSessions.105.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\AdvancedSessions-5-5\\AdvancedSessions\\AdvancedSessions\\Source\\AdvancedSessions\\Private\\StartSessionCallbackProxyAdvanced.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\AdvancedSessions.105.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\AdvancedSessions-5-5\\AdvancedSessions\\AdvancedSessions\\Source\\AdvancedSessions\\Private\\UpdateSessionCallbackProxyAdvanced.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\AdvancedSessions.105.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\AdvancedSessions-5-5\\AdvancedSessions\\AdvancedSteamSessions\\Source\\AdvancedSteamSessions\\AdvancedSteamSessions.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\AdvancedSteamSessions.106.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\AdvancedSessions-5-5\\AdvancedSessions\\AdvancedSteamSessions\\Source\\AdvancedSteamSessions\\Classes\\AdvancedSteamFriendsLibrary.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\AdvancedSteamSessions.106.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\AdvancedSessions-5-5\\AdvancedSessions\\AdvancedSteamSessions\\Source\\AdvancedSteamSessions\\Classes\\AdvancedSteamSessions.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\AdvancedSteamSessions.106.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\AdvancedSessions-5-5\\AdvancedSessions\\AdvancedSteamSessions\\Source\\AdvancedSteamSessions\\Classes\\AdvancedSteamWorkshopLibrary.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\AdvancedSteamSessions.106.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\AdvancedSessions-5-5\\AdvancedSessions\\AdvancedSteamSessions\\Source\\AdvancedSteamSessions\\Classes\\SteamNotificationsSubsystem.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\AdvancedSteamSessions.106.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\AdvancedSessions-5-5\\AdvancedSessions\\AdvancedSteamSessions\\Source\\AdvancedSteamSessions\\Classes\\SteamRequestGroupOfficersCallbackProxy.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\AdvancedSteamSessions.106.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\AdvancedSessions-5-5\\AdvancedSessions\\AdvancedSteamSessions\\Source\\AdvancedSteamSessions\\Classes\\SteamWSRequestUGCDetailsCallbackProxy.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\AdvancedSteamSessions.106.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\AdvancedSessions-5-5\\AdvancedSessions\\AdvancedSteamSessions\\Source\\AdvancedSteamSessions\\Private\\AdvancedSteamFriendsLibrary.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\AdvancedSteamSessions.106.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\AdvancedSessions-5-5\\AdvancedSessions\\AdvancedSteamSessions\\Source\\AdvancedSteamSessions\\Private\\AdvancedSteamSessions.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\AdvancedSteamSessions.106.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\AdvancedSessions-5-5\\AdvancedSessions\\AdvancedSteamSessions\\Source\\AdvancedSteamSessions\\Private\\AdvancedSteamWorkshopLibrary.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\AdvancedSteamSessions.106.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\AdvancedSessions-5-5\\AdvancedSessions\\AdvancedSteamSessions\\Source\\AdvancedSteamSessions\\Private\\SteamRequestGroupOfficersCallbackProxy.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\AdvancedSteamSessions.106.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\AdvancedSessions-5-5\\AdvancedSessions\\AdvancedSteamSessions\\Source\\AdvancedSteamSessions\\Private\\SteamWSRequestUGCDetailsCallbackProxy.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\AdvancedSteamSessions.106.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudioEditor\\Classes\\FMODAmbientSoundActorFactory.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudioEditor.95.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudioEditor\\Classes\\FMODAssetBuilder.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudioEditor.95.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudioEditor\\Classes\\FMODGenerateAssetsCommandlet.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudioEditor.95.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudioEditor\\FMODStudioEditor.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudioEditor.95.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudioEditor\\Private\\AssetTypeActions_FMODEvent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudioEditor.95.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudioEditor\\Private\\AssetTypeActions_FMODEvent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudioEditor.95.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudioEditor\\Private\\FMODAmbientSoundActorFactory.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudioEditor.95.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudioEditor\\Private\\FMODAssetBroker.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudioEditor.95.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudioEditor\\Private\\FMODAssetBuilder.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudioEditor.95.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudioEditor\\Private\\FMODAudioComponentDetails.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudioEditor.95.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudioEditor\\Private\\FMODAudioComponentDetails.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudioEditor.95.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudioEditor\\Private\\FMODAudioComponentVisualizer.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudioEditor.95.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudioEditor\\Private\\FMODAudioComponentVisualizer.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudioEditor.95.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudioEditor\\Private\\FMODBankUpdateNotifier.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudioEditor.95.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudioEditor\\Private\\FMODBankUpdateNotifier.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudioEditor.95.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudioEditor\\Private\\FMODEventEditor.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudioEditor.95.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudioEditor\\Private\\FMODEventEditor.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudioEditor.95.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudioEditor\\Private\\FMODGenerateAssetsCommandlet.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudioEditor.95.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudioEditor\\Private\\FMODSettingsCustomization.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudioEditor.95.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudioEditor\\Private\\FMODSettingsCustomization.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudioEditor.95.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudioEditor\\Private\\FMODStudioEditorModule.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudioEditor.95.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudioEditor\\Private\\FMODStudioEditorPrivatePCH.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudioEditor.95.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudioEditor\\Private\\FMODStudioStyle.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudioEditor.95.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudioEditor\\Private\\FMODStudioStyle.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudioEditor.95.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudioEditor\\Private\\SFMODEventEditorPanel.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudioEditor.95.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudioEditor\\Private\\SFMODEventEditorPanel.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudioEditor.95.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudioEditor\\Private\\Sequencer\\FMODChannelEditors.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudioEditor.95.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudioEditor\\Private\\Sequencer\\FMODChannelEditors.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudioEditor.95.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudioEditor\\Private\\Sequencer\\FMODEventControlTrackEditor.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudioEditor.95.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudioEditor\\Private\\Sequencer\\FMODEventControlTrackEditor.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudioEditor.95.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudioEditor\\Private\\Sequencer\\FMODEventParameterTrackEditor.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudioEditor.95.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudioEditor\\Private\\Sequencer\\FMODEventParameterTrackEditor.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudioEditor.95.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudioEditor\\Private\\Sequencer\\FMODParameterSection.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudioEditor.95.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudioEditor\\Private\\Sequencer\\FMODParameterSection.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudioEditor.95.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudioEditor\\Public\\FMODStudioEditorModule.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudioEditor.95.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudio\\Classes\\FMODAmbientSound.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudio.94.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudio\\Classes\\FMODAnimNotifyPlay.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudio.94.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudio\\Classes\\FMODAsset.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudio.94.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudio\\Classes\\FMODAudioComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudio.94.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudio\\Classes\\FMODBank.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudio.94.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudio\\Classes\\FMODBlueprintStatics.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudio.94.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudio\\Classes\\FMODBus.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudio.94.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudio\\Classes\\FMODEvent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudio.94.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudio\\Classes\\FMODPort.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudio.94.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudio\\Classes\\FMODSettings.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudio.94.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudio\\Classes\\FMODSnapshot.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudio.94.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudio\\Classes\\FMODSnapshotReverb.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudio.94.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudio\\Classes\\FMODVCA.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudio.94.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudio\\FMODStudio.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudio.94.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudio\\FMODStudioL_APL.xml",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudio.94.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudio\\FMODStudio_APL.xml",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudio.94.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudio\\Private\\FMODAmbientSound.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudio.94.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudio\\Private\\FMODAnimNotifyPlay.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudio.94.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudio\\Private\\FMODAsset.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudio.94.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudio\\Private\\FMODAssetLookup.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudio.94.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudio\\Private\\FMODAssetLookup.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudio.94.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudio\\Private\\FMODAssetTable.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudio.94.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudio\\Private\\FMODAssetTable.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudio.94.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudio\\Private\\FMODAudioComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudio.94.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudio\\Private\\FMODBank.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudio.94.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudio\\Private\\FMODBankLookup.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudio.94.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudio\\Private\\FMODBankLookup.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudio.94.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudio\\Private\\FMODBlueprintStatics.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudio.94.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudio\\Private\\FMODBus.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudio.94.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudio\\Private\\FMODEvent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudio.94.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudio\\Private\\FMODFileCallbacks.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudio.94.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudio\\Private\\FMODFileCallbacks.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudio.94.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudio\\Private\\FMODListener.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudio.94.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudio\\Private\\FMODListener.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudio.94.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudio\\Private\\FMODPlatform.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudio.94.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudio\\Private\\FMODPort.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudio.94.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudio\\Private\\FMODSettings.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudio.94.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudio\\Private\\FMODSnapshot.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudio.94.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudio\\Private\\FMODSnapshotReverb.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudio.94.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudio\\Private\\FMODStudioModule.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudio.94.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudio\\Private\\FMODStudioPrivatePCH.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudio.94.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudio\\Private\\FMODVCA.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudio.94.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudio\\Private\\Sequencer\\FMODEventControlSection.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudio.94.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudio\\Private\\Sequencer\\FMODEventControlSection.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudio.94.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudio\\Private\\Sequencer\\FMODEventControlSectionTemplate.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudio.94.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudio\\Private\\Sequencer\\FMODEventControlSectionTemplate.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudio.94.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudio\\Private\\Sequencer\\FMODEventControlTrack.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudio.94.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudio\\Private\\Sequencer\\FMODEventControlTrack.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudio.94.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudio\\Private\\Sequencer\\FMODEventParameterSectionTemplate.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudio.94.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudio\\Private\\Sequencer\\FMODEventParameterSectionTemplate.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudio.94.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudio\\Private\\Sequencer\\FMODEventParameterTrack.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudio.94.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudio\\Private\\Sequencer\\FMODEventParameterTrack.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudio.94.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudio\\Public\\FMODStudioModule.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudio.94.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudio\\Public\\FMODUtils.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudio.94.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudio\\Public\\FMOD\\fmod.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudio.94.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudio\\Public\\FMOD\\fmod.hpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudio.94.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudio\\Public\\FMOD\\fmod_android.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudio.94.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudio\\Public\\FMOD\\fmod_codec.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudio.94.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudio\\Public\\FMOD\\fmod_common.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudio.94.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudio\\Public\\FMOD\\fmod_dsp.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudio.94.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudio\\Public\\FMOD\\fmod_dsp_effects.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudio.94.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudio\\Public\\FMOD\\fmod_errors.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudio.94.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudio\\Public\\FMOD\\fmod_output.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudio.94.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudio\\Public\\FMOD\\fmod_studio.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudio.94.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudio\\Public\\FMOD\\fmod_studio.hpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudio.94.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Plugins\\FMODStudio\\Source\\FMODStudio\\Public\\FMOD\\fmod_studio_common.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\FMODStudio.94.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Source\\Steam\\MyClass.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\Steam.1.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Source\\Steam\\MyClass.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\Steam.1.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Source\\Steam\\Private\\AntiAliasingType.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\Steam.1.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Source\\Steam\\Public\\AntiAliasingType.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\Steam.1.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Source\\Steam\\Steam.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\Steam.1.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Source\\Steam\\Steam.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\Steam.1.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProjectMiku\\Source\\Steam\\Steam.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProjectMiku\\.vscode\\compileCommands_ProjectMiku\\Steam.1.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	}
+]
